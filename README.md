@@ -12,3 +12,6 @@ Architecture :
 Dependencies :
   - nodejs : express, child_process
   - python : numpy
+
+Example :
+  - http://www.ignorance.com.cn:3000/curvefit.html
